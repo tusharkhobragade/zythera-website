@@ -188,7 +188,7 @@ textarea {
 
 #about .about-copy .eyebrow {
   position: relative;
-  top: 0.2rem;
+  top: 0.5rem;
 }
 
 .hero {
@@ -389,7 +389,7 @@ textarea {
 /* For ABOUT THE FOUNDER (#solutions) use 25% / 75% */
 #solutions .about-grid {
   grid-template-columns: minmax(220px, 35%) minmax(0, 65%);
-  align-items: start;
+  align-items: center;
   gap: 2rem;
 }
 
@@ -410,7 +410,6 @@ textarea {
 #solutions .about-copy {
   width: 100%;
   min-width: 0;
-  margin-top: 20px;
 }
 
 #solutions .about-copy h1,
